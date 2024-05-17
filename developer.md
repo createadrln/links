@@ -29,6 +29,11 @@
 * https://www.starburst.io/learn/presto-sql/
 * https://www.fellipe.com/apps/im-coder/
 * https://medium.com/@yourfuse/exploring-quantum-computing-with-javascript-a-beginners-guide-d29a4af15ec7
+* https://secretgeek.net/dod_intro
+* https://heynote.com/
+* https://penrose.cs.cmu.edu/
+* https://www.bitsand.cloud/posts/slashing-data-transfer-costs/
+
 
 **AI**
 * https://emoji.fly.dev
@@ -47,6 +52,7 @@
 * https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html
 * https://www.dataorienteddesign.com/dodbook/
 * https://www.propublica.org/article/find-nursing-home-ownership-information
+* https://www.nps.gov/subjects/digital/nps-data-api.htm
 
 **Climate**
 * https://mycoast.org/md
@@ -89,6 +95,7 @@
 * https://beentheredonethatwithkids.com/2021/08/swallow-falls-state-park-oakland-md.html/
 * https://sunshinewhispers.com/idlewild-park-in-easton-md-guide/
 * https://marylandkidadventures.com/blog/
+* https://thewalters.org/exhibitions/bookshelf-women/
 
 **Vacation**
 * https://www.nassauparadiseisland.com/blog/a-guide-to-nassau-paradise-island-with-kids
