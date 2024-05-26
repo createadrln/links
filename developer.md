@@ -85,6 +85,7 @@
 * https://gijn.org/stories/tracking-shell-companies-secret-owners/
 * https://www.exiger.com/perspectives/confronting-the-invisible-forever-chemicals-in-healthcare-supply-chains/
 * https://www.why-expensive.com/
+* https://maxrozen.com/2023-focus-single-product-pays-off
 
 **Fun**
 * https://echochess.com
