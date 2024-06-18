@@ -92,6 +92,7 @@
 * https://redblobgames.com
 * https://www.kamparoo.com/
 * https://happiercamper.com/
+* https://www.outdoorsy.com/
 * https://certifikid.com
 * https://beentheredonethatwithkids.com/2021/08/swallow-falls-state-park-oakland-md.html/
 * https://sunshinewhispers.com/idlewild-park-in-easton-md-guide/
