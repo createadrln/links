@@ -33,6 +33,12 @@
 * https://heynote.com/
 * https://penrose.cs.cmu.edu/
 * https://www.bitsand.cloud/posts/slashing-data-transfer-costs/
+* https://www.pythonmorsels.com/cli-tools/
+* https://dotenvx.com/
+* https://kivy.org/
+* https://satyrn.app/
+* https://crawlee.dev/
+* https://jsben.ch/
 
 **AI**
 * https://emoji.fly.dev
@@ -46,11 +52,24 @@
 * https://jspaint.app/
 * https://wasp-lang.dev/
 * https://supermaven.com/blog/introducing-supermaven
+* https://drawbert.ai/
+* https://ai.meta.com/research/publications/meta-3d-gen/
+* https://colab.research.google.com/
+* 
 
 **Data**
 * https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html
 * https://www.dataorienteddesign.com/dodbook/
 * https://www.propublica.org/article/find-nursing-home-ownership-information
 * https://www.nps.gov/subjects/digital/nps-data-api.htm
+* https://turbopuffer.com/
+* https://xata.io/
+
+**Ops**
+* https://wordpress.com/p2/
+* https://www.cyberscarecrow.com/
+* https://ochagavia.nl/blog/using-s3-as-a-container-registry/
 
 
+**Design**
+* https://pikimov.com/
