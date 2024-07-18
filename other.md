@@ -11,6 +11,9 @@
 * https://captain-adams.creator-spring.com/
 * https://artsadd.com/custom
 * https://lktopcoats.com/collections/all
+* https://www.nohoursbrand.com/
+* https://allamericanroughneck.com/
+* https://dtfsheet.com/
 
 **Other**
 * https://bjsm.bmj.com/content/57/18/1203
@@ -30,6 +33,9 @@
 * https://www.exiger.com/perspectives/confronting-the-invisible-forever-chemicals-in-healthcare-supply-chains/
 * https://www.why-expensive.com/
 * https://maxrozen.com/2023-focus-single-product-pays-off
+* https://www.revelyst.com/
+* https://flipdisc.io/
+* http://spudguns.org/
 
 **Fun**
 * https://echochess.com
@@ -42,6 +48,9 @@
 * https://sunshinewhispers.com/idlewild-park-in-easton-md-guide/
 * https://marylandkidadventures.com/blog/
 * https://thewalters.org/exhibitions/bookshelf-women/
+* https://www.eventbrite.com/o/the-sonic-lifeline-39571060923
+* https://pitboss-grills.com/
+* https://en.wikipedia.org/wiki/Ganjifa
 
 **Vacation**
 * https://www.nassauparadiseisland.com/blog/a-guide-to-nassau-paradise-island-with-kids
@@ -73,6 +82,9 @@
 **Art**
 * https://fineartamerica.com/featured/mi-cuba-libre-heather-calderon.html
 * https://kmalexander.com/2022/11/10/ishikawa-a-free-17th-century-brush-set-for-fantasy-maps/
+* https://jetpacksandrollerskates.com/
+* https://drawabox.com/
+* https://artsandculture.google.com/
 
 **Strength training**
 * https://www.healthline.com/health/pain-relief/exercises-for-hip-pain#6-strengthening-moves
