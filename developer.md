@@ -39,6 +39,19 @@
 * https://satyrn.app/
 * https://crawlee.dev/
 * https://jsben.ch/
+* https://ui.shadcn.com
+* https://astro.build
+* https://chromewebstore.google.com/detail/html-to-react-figma-by-ma/
+* https://lu.ma
+* https://chartdb.io
+* https://simplelister.com
+* https://mynaui.com
+* https://sq.io
+* https://developer.mozilla.org/en-US/docs/Web/CSS/@property
+* https://pyscript.net
+* https://vanillajsx.com
+* https://fastht.ml
+* 
 
 **AI**
 * https://emoji.fly.dev
@@ -55,7 +68,7 @@
 * https://drawbert.ai/
 * https://ai.meta.com/research/publications/meta-3d-gen/
 * https://colab.research.google.com/
-* 
+
 
 **Data**
 * https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html
@@ -69,6 +82,9 @@
 * https://wordpress.com/p2/
 * https://www.cyberscarecrow.com/
 * https://ochagavia.nl/blog/using-s3-as-a-container-registry/
+* https://flexstack.com
+* https://shiper.app
+* https://dokploy.com
 
 
 **Design**
