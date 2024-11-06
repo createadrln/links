@@ -35,7 +35,12 @@
 * https://maxrozen.com/2023-focus-single-product-pays-off
 * https://www.revelyst.com/
 * https://flipdisc.io/
-* http://spudguns.org/
+* https://spudguns.org/
+* https://lisaglanz.com/blog/passive-income=advice-selling-digital-products
+* https://waulog.com
+* https://dkebuilds.com
+* https://furilabs.com
+* https://makeityourself.org
 
 **Fun**
 * https://echochess.com
@@ -51,6 +56,7 @@
 * https://www.eventbrite.com/o/the-sonic-lifeline-39571060923
 * https://pitboss-grills.com/
 * https://en.wikipedia.org/wiki/Ganjifa
+* https://f1arcade.com
 
 **Vacation**
 * https://www.nassauparadiseisland.com/blog/a-guide-to-nassau-paradise-island-with-kids
