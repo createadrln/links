@@ -51,7 +51,7 @@
 * https://pyscript.net
 * https://vanillajsx.com
 * https://fastht.ml
-* 
+* https://scrapy.org/
 
 **AI**
 * https://emoji.fly.dev
