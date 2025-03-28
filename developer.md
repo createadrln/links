@@ -108,6 +108,7 @@
 * https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/
 * https://ai.google.dev/gemma/docs/capabilities/function-calling
 * https://hub.continue.dev/explore/assistants
+* https://ideogram.ai/t/explore
 
 **Data**
 * https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html
