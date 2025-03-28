@@ -106,6 +106,8 @@
 * https://www.mistralocr.com/
 * https://www.autotab.com/
 * https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/
+* https://ai.google.dev/gemma/docs/capabilities/function-calling
+* https://hub.continue.dev/explore/assistants
 
 **Data**
 * https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html
@@ -131,6 +133,7 @@
 * https://nyxt.atlas.engineer/
 * https://scamchecknow.com/
 * https://ghostty.org/
+* https://dagger.io/blog/dagger-shell
 
 **Games**
 * https://ceosimulator.vercel.app/
