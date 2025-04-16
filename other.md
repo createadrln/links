@@ -92,6 +92,7 @@
 * https://jetpacksandrollerskates.com/
 * https://drawabox.com/
 * https://artsandculture.google.com/
+* https://shop3d.ca/products/bambu-lab-h2d-laser
 
 **Strength training**
 * https://www.healthline.com/health/pain-relief/exercises-for-hip-pain#6-strengthening-moves
