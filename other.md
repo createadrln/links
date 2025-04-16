@@ -41,6 +41,10 @@
 * https://dkebuilds.com
 * https://furilabs.com
 * https://makeityourself.org
+* https://gumroad.com/
+* https://www.mentalfloss.com/japanese-town-old-men-pokemon-cards
+* https://www.goodnewsnetwork.org/trading-cards-featuring-middle-aged-men-go-viral-in-japanese-town-boosting-volunteerism-and-awe-of-elders/
+* https://www.csoonline.com/
 
 **Fun**
 * https://echochess.com
@@ -96,6 +100,7 @@
 
 **Strength training**
 * https://www.healthline.com/health/pain-relief/exercises-for-hip-pain#6-strengthening-moves
+* https://www.opennutrition.app/
 * https://thehybridathlete.com/training-plans/
 
 **Vector Tools**
