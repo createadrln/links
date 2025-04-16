@@ -74,6 +74,11 @@
 * https://electric-sql.com/
 * https://litestream.io/
 * https://konvajs.org/
+* https://plainframework.com/
+* https://www.framer.com/
+* https://data-star.dev/
+* https://fuma-nama.vercel.app/blog/svg-art
+* https://herb-tools.dev/
 
 **AI**
 * https://emoji.fly.dev
@@ -109,6 +114,11 @@
 * https://ai.google.dev/gemma/docs/capabilities/function-calling
 * https://hub.continue.dev/explore/assistants
 * https://ideogram.ai/t/explore
+* https://www.ultralytics.com/
+* https://leonardo.ai
+* https://cs.huji.il/~shais/UnderstandingMachineLearning/copy.html
+* https://ai-2027.com
+* https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
 
 **Data**
 * https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html
@@ -120,6 +130,7 @@
 * https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
 * https://jcgt.org/published/0014/01/05/
 * https://www.nps.gov/subjects/digital/nps-data-api.htm
+* https://echarts.apache.org/en/index.html
 
 **Ops**
 * https://wordpress.com/p2/
