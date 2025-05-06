@@ -79,6 +79,8 @@
 * https://data-star.dev/
 * https://fuma-nama.vercel.app/blog/svg-art
 * https://herb-tools.dev/
+* https://repomix.com/
+* 
 
 **AI**
 * https://emoji.fly.dev
@@ -119,6 +121,8 @@
 * https://cs.huji.il/~shais/UnderstandingMachineLearning/copy.html
 * https://ai-2027.com
 * https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
+* https://edgebit.io/blog/automated-dependency-updates-with-ai/
+* https://www.anthropic.com/engineering/claude-code-best-practices
 
 **Data**
 * https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html
@@ -131,6 +135,8 @@
 * https://jcgt.org/published/0014/01/05/
 * https://www.nps.gov/subjects/digital/nps-data-api.htm
 * https://echarts.apache.org/en/index.html
+* https://www.judyrecords.com/
+* https://ember-energy.org/
 
 **Ops**
 * https://wordpress.com/p2/
@@ -146,6 +152,8 @@
 * https://scamchecknow.com/
 * https://ghostty.org/
 * https://dagger.io/blog/dagger-shell
+* https://starterpilot.com/
+* https://www.altusintel.com/public-yychhc/#google_vignette
 
 **Games**
 * https://ceosimulator.vercel.app/
