@@ -154,6 +154,9 @@
 * https://dagger.io/blog/dagger-shell
 * https://starterpilot.com/
 * https://www.altusintel.com/public-yychhc/#google_vignette
+  
+**Rust**
+* https://crates.io/
 
 **Games**
 * https://ceosimulator.vercel.app/
