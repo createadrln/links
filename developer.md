@@ -80,7 +80,7 @@
 * https://fuma-nama.vercel.app/blog/svg-art
 * https://herb-tools.dev/
 * https://repomix.com/
-* 
+* https://sparkjs.dev/
 
 **AI**
 * https://emoji.fly.dev
