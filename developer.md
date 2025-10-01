@@ -81,6 +81,8 @@
 * https://herb-tools.dev/
 * https://repomix.com/
 * https://sparkjs.dev/
+* https://docs.onedev.io/
+* https://planetscale.com/blog/planetscale-for-postgres-is-generally-available
 
 **AI**
 * https://emoji.fly.dev
@@ -138,6 +140,7 @@
 * https://www.judyrecords.com/
 * https://ember-energy.org/
 * https://github.com/autoscrape-labs/pydoll
+* https://lukehinds.github.io/deepfabric/
 
 **Ops**
 * https://wordpress.com/p2/
@@ -155,13 +158,14 @@
 * https://dagger.io/blog/dagger-shell
 * https://starterpilot.com/
 * https://www.altusintel.com/public-yychhc/#google_vignette
+* https://kokada.dev/blog/kde-is-now-my-favorite-desktop/
+
   
 **Rust**
 * https://crates.io/
 
 **Games**
 * https://ceosimulator.vercel.app/
-
 
 **Design**
 * https://pikimov.com/
