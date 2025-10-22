@@ -45,6 +45,7 @@
 * https://www.mentalfloss.com/japanese-town-old-men-pokemon-cards
 * https://www.goodnewsnetwork.org/trading-cards-featuring-middle-aged-men-go-viral-in-japanese-town-boosting-volunteerism-and-awe-of-elders/
 * https://www.csoonline.com/
+* https://environmentamerica.org/center/resources/safe-for-swimming/
 
 **Fun**
 * https://echochess.com
@@ -108,3 +109,6 @@
 
 **Competition**
 * https://www.svgrepo.com/
+* https://crafthousesvg.com/
+* https://www.printablecuttablecreatables.com/
+* https://svgnation.com/
